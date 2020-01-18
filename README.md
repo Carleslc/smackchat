@@ -11,7 +11,7 @@ An example chat app using Firebase, Quasar and Vue.js.
 npm install
 ```
 
-## Configure Firebase project
+## Configure Firebase project
 
 Add the following code (with your custom project settings) to `src/boot/firebase-config.js`.
 
